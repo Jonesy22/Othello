@@ -4,4 +4,4 @@
 - Starter code was given to create the board and place pieces.
 - All minimax decision making was implemented by me.
 
-$ python GameDriver.py human minimax
+<b>$ python GameDriver.py human minimax</b>
