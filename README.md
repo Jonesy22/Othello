@@ -5,4 +5,5 @@
 - All minimax decision making was implemented by me.
 
 
-TO PLAY: python GameDriver.py human minimax
+To play:
+python GameDriver.py human minimax
